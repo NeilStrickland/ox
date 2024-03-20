@@ -1,0 +1,1 @@
+This repository contains code for playing the game Noughts and Crosses (also known as Tic-Tac-Toe).  It is mostly intended as a simple example of a Python package containing several files with relative imports.
