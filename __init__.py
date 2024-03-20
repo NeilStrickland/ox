@@ -1,7 +1,4 @@
 import numpy as np
-import matplotlib.pyplot as plt
-import matplotlib.lines
-import time
 
 __all__ = ['analyse', 'players', 'show', 'play', 'states']
 
